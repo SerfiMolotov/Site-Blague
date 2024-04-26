@@ -1,0 +1,10 @@
+body {
+    background: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+    color: #fff;
+}
+.hero-banner {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 50px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
