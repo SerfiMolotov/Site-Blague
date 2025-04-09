@@ -1,1 +1,1 @@
-link : http://89.168.55.51:8000/
+générateur de blague 
